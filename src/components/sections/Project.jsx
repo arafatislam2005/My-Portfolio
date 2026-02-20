@@ -2,8 +2,8 @@ import React from 'react';
 import { ExternalLink, Youtube } from 'lucide-react';
 
 const projects = [
-    { title: "Portfolio Web", link: "https://friendly-lamington-89d0c1.netlify.app/", tech: "React, Tailwind" },
-    { title: "Auth System", link: "https://adorable-madeleine-041624.netlify.app/login", tech: "Firebase, MongoDB" },
+    { title: "Portfolio Web", link: "https://friendly-lamington-89d0c1.netlify.app/", tech: "React,Javascript, MongoDB, Tailwind" },
+    { title: "Auth System", link: "https://adorable-madeleine-041624.netlify.app/login", tech: "React, TanStake,Tailwind, Firebase, MongoDB" },
     { title: "Tech Tutorial", link: "https://www.youtube.com/shorts/MAUGpA6vUM4", tech: "Automation", isVideo: true }
 ];
 

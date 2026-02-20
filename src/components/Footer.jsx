@@ -1,10 +1,9 @@
-const Footer = () => (
-    <footer className="py-8 border-t border-gray-800 text-center text-gray-500 text-sm">
-        <p>© 2026 Md. Arafath Islam Abir. All rights reserved.</p>
-        <div className="mt-2 flex justify-center gap-4">
-            <span>React</span> • <span>Tailwind</span> • <span>Firebase</span>
-        </div>
-    </footer>
-);
+const Footer = () => {
+    return (
+        <footer className="py-10 border-t border-gray-900 bg-black text-center text-gray-500">
+            <p>© 2026 Md. Arafath Islam Abir. Built with React, JavaScript & Tailwind.</p>
+        </footer>
+    );
+};
 
 export default Footer;
